@@ -1,0 +1,15 @@
+{
+    "name": "kamranhasani/settarehpay",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kamranhasani\\Settarehpay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kamranhasani"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<SETTAREH>
+  <show_product>
+    <name>sportswear-one</name>
+    <size>S</size>
+    <color>white</color>
+    <num_order>522929</num_order>
+    <num_trac>225269</num_trac>
+    <data>2024-12-23</data>
+    <price>20000</price>
+    <show_product>
+      <name>sportswear-four</name>
+      <size>XL</size>
+      <color>white</color>
+      <num_order>135232</num_order>
+      <num_trac>225269</num_trac>
+      <data>2024-12-23</data>
+      <price>20008</price>
+      <user_info>
+        <name>&#x633;&#x633;&#x633;&#x633;&#x633;</name>
+        <family>&#x633;&#x633;&#x633;&#x633;</family>
+        <phone>452</phone>
+        <address>cf</address>
+        <zipcode>425</zipcode>
+        <email>kamran@gmail.com</email>
+        <all_pricee>80008</all_pricee>
+        <post_price>40000</post_price>
+        <type_buy>online</type_buy>
+      </user_info>
+    </show_product>
+  </show_product>
+</SETTAREH>
