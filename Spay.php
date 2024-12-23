@@ -1,6 +1,6 @@
 
 <?php 
-//--**-get of class implement_online
+//--**////-get of class implement_online
 require "vendor/autoload.php";
 use   Kamranhasani\Settarehpay\settareh\implement_online;
 use   Kamranhasani\Settarehpay\help\implement_help;
