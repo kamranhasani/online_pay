@@ -1,5 +1,5 @@
-# Student project-Educational
-online_pay
+# online_pay
+Student project
 # Includes:
 php 8.0 -
 bootstrap -
